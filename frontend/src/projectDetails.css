@@ -1,0 +1,96 @@
+div {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 40px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+strong {
+  color: #007bff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+.react-pdf__Document {
+  width: 100%;
+}
+
+.react-pdf__Page__canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+div strong {
+  margin-right: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4f6f52;
+  color: #fff;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.pdf-viewer {
+  width: 100%;
+  overflow: hidden;
+}
+
+.pdf-document {
+  display: block;
+  margin: auto;
+}
+
+.pdf-navigation {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.pdf-navigation button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.pdf-navigation span {
+  font-weight: bold;
+}
